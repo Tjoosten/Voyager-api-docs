@@ -1,0 +1,28 @@
+{
+  "name": "voyager-api-docs",
+  "version": "1.0.0",
+  "description": "De documentatie van de interne api die meegeleverd word met Voyager. ",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leasedeck/Voyager-api-docs.git"
+  },
+  "keywords": [
+    "api",
+    "socuts",
+    "api",
+    "open-source"
+  ],
+  "author": "Tim Joosten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leasedeck/Voyager-api-docs/issues"
+  },
+  "homepage": "https://github.com/leasedeck/Voyager-api-docs#readme",
+  "dependencies": {
+    "aglio": "^2.3.0",
+    "gulp": "^4.0.2",
+    "gulp-aglio": "0.0.14"
+  }
+}
